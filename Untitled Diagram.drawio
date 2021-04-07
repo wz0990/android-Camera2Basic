@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-07T05:49:25.762Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZdpB3rP5ukNd_8_p_ovb" version="14.2.9" type="github">
+<mxfile modified="2021-04-07T05:50:40.280Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tOob773_BIVsLUFafwtP" version="14.2.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="zE-7qnLxaJ57DrKSM9i6-20" target="zE-7qnLxaJ57DrKSM9i6-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zE-7qnLxaJ57DrKSM9i6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="zE-7qnLxaJ57DrKSM9i6-20" target="zE-7qnLxaJ57DrKSM9i6-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-20" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;dashed=1;strokeWidth=1;strokeColor=#FFB366;" vertex="1" parent="1">
@@ -124,6 +127,15 @@
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-52" value="获取服务列表" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="308.5" y="166" width="82.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zE-7qnLxaJ57DrKSM9i6-53" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;dashed=1;strokeWidth=1;strokeColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="544" y="564" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zE-7qnLxaJ57DrKSM9i6-54" value="消息队列中间件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="625" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zE-7qnLxaJ57DrKSM9i6-55" value="RabbitMQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
+          <mxGeometry x="554" y="585" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
