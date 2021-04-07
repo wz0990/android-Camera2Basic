@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-07T02:07:08.043Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="C6pK_zlLll-yhl33sZAP" version="14.2.9" type="github">
+<mxfile modified="2021-04-07T02:08:13.317Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2AWDmmaYEsrX2DeNzIj9" version="14.2.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -54,19 +54,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-17" value="ruoyi-idt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
-          <mxGeometry x="390" y="241" width="120" height="40" as="geometry" />
+          <mxGeometry x="416" y="246" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-18" value="驾培主服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="281" width="65" height="20" as="geometry" />
+          <mxGeometry x="443.5" y="286" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-19" value="ruoyi-facereco" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
-          <mxGeometry x="644" y="241" width="120" height="40" as="geometry" />
+          <mxGeometry x="670" y="246" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-23" value="Feign Client" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="556" y="251" width="50" height="20" as="geometry" />
+          <mxGeometry x="579" y="256" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-26" value="Ribbon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
-          <mxGeometry x="541" y="216" width="80" height="20" as="geometry" />
+          <mxGeometry x="567" y="221" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zE-7qnLxaJ57DrKSM9i6-27" value="人脸服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="287" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
