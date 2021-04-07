@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-07T01:51:43.741Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="As3tFYyUBecmjRe-BCqJ" version="14.2.9" type="github">
+<mxfile modified="2021-04-07T01:51:53.128Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="EJ8LSRQwbwprtd11oMpC" version="14.2.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,10 +21,10 @@
           <mxGeometry x="90" y="110" width="47.21" height="46" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-2" value="ruoyi-gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
-          <mxGeometry x="210" y="237" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="238" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-6" value="网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="245" y="278" width="50" height="20" as="geometry" />
+          <mxGeometry x="245" y="280" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-4" value="API调用" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="190" width="50" height="20" as="geometry" />
