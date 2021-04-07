@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-07T07:41:30.043Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="AyHhmwEbbRGeYSVf6_2E" version="14.2.9" type="github">
+<mxfile modified="2021-04-07T07:41:42.876Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="wxsQEnqU0doXlj_2_tCg" version="14.2.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
           <mxGeometry x="253.5" y="426.5" width="63" height="18" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-40" value="服务注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="264.75" y="178" width="50" height="20" as="geometry" />
+          <mxGeometry x="264.75" y="175" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-44" value="注册" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="147" y="350.5" width="50" height="20" as="geometry" />
@@ -123,7 +123,7 @@
           <mxGeometry x="536" y="321.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-47" value="ruoyi-eureka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" parent="1" vertex="1">
-          <mxGeometry x="231" y="198" width="120" height="40" as="geometry" />
+          <mxGeometry x="231" y="195" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-48" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;dashed=1;strokeWidth=1;strokeColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="221" y="29.5" width="140" height="90" as="geometry" />
@@ -195,10 +195,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uuEgaFtKrS7pOg62EtOo-2" value="ruoyi-config" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
-          <mxGeometry x="230.75" y="265.75" width="120" height="40" as="geometry" />
+          <mxGeometry x="230.75" y="262.75" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uuEgaFtKrS7pOg62EtOo-3" value="配置服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="264.75" y="305.75" width="50" height="20" as="geometry" />
+          <mxGeometry x="264.75" y="302.75" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zE-7qnLxaJ57DrKSM9i6-17" value="&lt;font style=&quot;font-size: 10px&quot;&gt;ruoyi-idt&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="524" y="440.5" width="80.37" height="35.5" as="geometry" />
